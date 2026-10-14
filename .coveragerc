@@ -1,0 +1,5 @@
+[run]
+source = app
+# Relative paths let SonarCloud match coverage to files no matter
+# which directory or container the tests ran in.
+relative_files = True
